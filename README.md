@@ -1,4 +1,4 @@
-# HW - {mysql-node-wk12}
+# Bamazon Store
 
 ## Use the prompt to tell the Bamazon store the ID of the product you would like to purchase and quantity desired. You will then be given a total price for your order.
 
